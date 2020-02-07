@@ -6,6 +6,8 @@ function basicTeenager(age) {
   }
 }
 
+basicTeenager(20);
+
 function teenager(age) {
 
 }
